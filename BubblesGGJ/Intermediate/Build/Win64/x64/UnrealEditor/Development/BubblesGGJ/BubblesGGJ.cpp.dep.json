@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\boude\\documents\\school\\prerfoce-swarm-3\\boudewijn191056\\bubblesggj\\source\\bubblesggj\\bubblesggj.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\boude\\documents\\school\\prerfoce-swarm-3\\boudewijn191056\\bubblesggj\\intermediate\\build\\win64\\x64\\bubblesggjeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\boude\\documents\\school\\prerfoce-swarm-3\\boudewijn191056\\bubblesggj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bubblesggj\\definitions.bubblesggj.h",
+            "c:\\users\\boude\\documents\\school\\prerfoce-swarm-3\\boudewijn191056\\bubblesggj\\source\\bubblesggj\\bubblesggj.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

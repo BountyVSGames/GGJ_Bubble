@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BubblesGGJ.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\boude\Documents\School\Prerfoce-Swarm-3\Boudewijn191056\BubblesGGJ\Intermediate\Build\Win64\x64\BubblesGGJEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\boude\Documents\School\Prerfoce-Swarm-3\Boudewijn191056\BubblesGGJ\Intermediate\Build\Win64\x64\UnrealEditor\Development\BubblesGGJ\BubblesGGJ.cpp.obj"
+"C:\Users\boude\Documents\School\Prerfoce-Swarm-3\Boudewijn191056\BubblesGGJ\Intermediate\Build\Win64\x64\UnrealEditor\Development\BubblesGGJ\Default.rc2.res"
+/OUT:"C:\Users\boude\Documents\School\Prerfoce-Swarm-3\Boudewijn191056\BubblesGGJ\Intermediate\Build\Win64\x64\UnrealEditor\Development\BubblesGGJ\UnrealEditor-BubblesGGJ.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BubblesGGJ",
+			"Path": "..\\Source\\BubblesGGJ.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BubblesGGJEditor",
+			"Path": "..\\Source\\BubblesGGJEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

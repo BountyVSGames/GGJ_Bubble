@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BP_Level.uasset",
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Input/IA_Right.uasset",
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Input/IA_Left.uasset",
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Input/IA_Move.uasset",
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Input/IM_Player.uasset",
+				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BP_Pawn.uasset",
 				"C:/Side/ProjectUnder/GGJ_Bubble/BubblesGGJ/Content/L_SzymonGym.umap",
 				"C:/Side/ProjectUnder/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BP_DestructibleWall.uasset",
 				"C:/Side/ProjectUnder/GGJ_Bubble/BubblesGGJ/Content/Blueprints/NS_DestroyWall.uasset",

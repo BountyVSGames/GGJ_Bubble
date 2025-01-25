@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Side/ProjectUnder/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BPC_PlayerMovement.uasset",
+				"C:/Side/ProjectUnder/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BP_Pawn.uasset",
 				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BP_Pawn.uasset",
 				"C:/Users/boude/Documents/Git/GGJ_Bubble/BubblesGGJ/Content/Blueprints/BPC_LevelRotation.uasset"
 			]
